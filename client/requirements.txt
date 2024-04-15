@@ -1,3 +1,4 @@
 # client-side requirements, pretty light-weight right?
 numpy
 pyzmq >= 17.1.0  # python zmq
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
