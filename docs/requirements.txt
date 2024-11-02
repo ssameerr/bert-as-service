@@ -4,3 +4,4 @@ pyzmq
 tensorflow
 GPUtil
 sphinx-argparse
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
